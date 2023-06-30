@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "day-1-calorie-counting",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Santiago Torres <contact@santiagotorres.me"]
+description = "Solutions for advent of code 2022"
